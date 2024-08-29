@@ -51,7 +51,7 @@ yt5 = yi + (vy * tiempo_impacto2) - (4.9 * (tiempo_impacto2**2))
 #Las coordenadas (x,y) en el tiempo 0.1 antes del impacto
 xt6 = xi + (vx * tiempo_impacto3)
 yt6 = yi + (vy * tiempo_impacto3) - (4.9 * (tiempo_impacto3**2))
-#Las coordenadas x, del impacto
+#La coordenada x, del impacto
 xt7 = xi + (vx * tiempo_estimado)
 #Fallo del impacto
 fallo_impacto = xt7 - xc
