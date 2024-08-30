@@ -1,6 +1,5 @@
 # Librerias
 import math
-# Entradas
 print('*** Kiwi ayuda al Coyote ***')
 print('Ingrese los siguiente datos: \n')
 #función para evaluar si los datos son validos
